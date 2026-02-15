@@ -1,0 +1,7 @@
+{
+  "name": "LucidAI - Your Roadside Ally",
+  "description": "Premium AI glasses designed for drivers, offering a hands-free GPS and real-time road assistance experience with a vibrant orange theme.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
